@@ -1,2 +1,2 @@
-# softwareCarpentryGitDemo
+# Software Carpentry Git Demo
 
