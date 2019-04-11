@@ -1,3 +1,2 @@
 # softwareCarpentryGitDemo
 
-[data folder](data/)
