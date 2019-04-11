@@ -1,2 +1,2 @@
-# Software Carpentry Git Demo
+# Software Carpentry Git Demo (riku)
 
